@@ -8,7 +8,9 @@ using namespace std;
       cout << "Masukkan Panjang : ";
     cin >> p;
 
-
+//langkah 3
+     cout << "Masukkan Lebar : ";
+     cin >> l;
 
    
 
