@@ -12,7 +12,8 @@ using namespace std;
      cout << "Masukkan Lebar : ";
      cin >> l;
 
-   
+     //langkah 4
+     luas = p * l;
 
    
  }
